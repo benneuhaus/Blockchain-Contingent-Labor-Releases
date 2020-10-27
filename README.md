@@ -1,4 +1,4 @@
-**10/27 Release**
+<h4>10/27 Release</h4>
 
 Now using fields from upstream systems to automatically delegate POs to the correct Manager and Delegated Time Verifier- will reduce onboarding time:
 Manager email and Delegated Time Verifier (if applicable) are now required fields in the upstream systems we pull our PO data from, so we are utilizing this to automatically delegate POs to the correct managers and assign the  
@@ -34,7 +34,7 @@ Made it so that when a new timesheet is loaded, we will only copy over the valid
 Upgraded to IBM Blockchain Platform (IBP) v2
 
 
---9/1--
+**9/1**
 
 When switching tabs, instead of reloading the full page and presenting a loading symbol in the middle of the page, we'll present the loading symbol in just the tab that is being loaded.
 
@@ -83,7 +83,7 @@ Liability/Invoice Enhancement
 We have added Additional filtering capabilities for the existing Liability and Invoice Reports
 
 
---7-7--
+7-7--
 
 New Timesheets Page
 
