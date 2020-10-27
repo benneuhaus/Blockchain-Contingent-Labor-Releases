@@ -34,7 +34,7 @@ Made it so that when a new timesheet is loaded, we will only copy over the valid
 Upgraded to IBM Blockchain Platform (IBP) v2
 
 
-**9/1**
+<h3>9/1</h3>
 
 When switching tabs, instead of reloading the full page and presenting a loading symbol in the middle of the page, we'll present the loading symbol in just the tab that is being loaded.
 
