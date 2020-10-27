@@ -15,7 +15,7 @@ We are trying to make sure our app stays compliant with accessibility standards 
 **Defect with not being able to clear Notifications resolved**
 There was a defect where the notifications under the bell icon could not be cleared. We have resolved this and you should be able to clear individual notifications or clear all notifications that are visible on the page
 
-<h4>2020 Highlights</h4>
+<h3>2020 Highlights</h3>
 
 We added a timesheets page allowing contractors to see a table of ALL of their timesheets, including saved (not submitted) timesheets and timesheets on multiple POs
 
