@@ -34,7 +34,7 @@ Made it so that when a new timesheet is loaded, we will only copy over the valid
 Upgraded to IBM Blockchain Platform (IBP) v2
 
 
-<h3>9/1</h3>
+<h3>9/1 Release</h3>
 
 When switching tabs, instead of reloading the full page and presenting a loading symbol in the middle of the page, we'll present the loading symbol in just the tab that is being loaded.
 
@@ -73,7 +73,7 @@ We introduced a variety of reports that allow Managers, Delegated Time Verifiers
 **Liability/Invoice Enhancement**: We have added Additional filtering capabilities for the existing Liability and Invoice Reports
 
 
-<h3>7-7</h3>
+<h3>7-7 Release</h3>
 
 **New Timesheets Page**
 
@@ -88,11 +88,11 @@ For managers who are part of GBS or GTS, if the contractor admin teams move a PO
 A new email will come out weekly to notify managers and DTVs when the have timesheets on their escalated tab. Since timesheet verification is an important weekly activity, we will be sending out weekly reminder emails for all timesheets which are escalated which means they have not been verified before the escalated deadline.
 
 
-<h3>4/28</h3>
+<h3>4/28 Release</h3>
 Made it so that if there is a renewal PO that flows to the app and is linked in CSA to a PO already in the Blockchain Application with an "All Approved" contractor record, the contractor record on the new PO will automatically be created.
 
 
-<h3>3/11</h3>
+<h3>3/11 Release</h3>
 Search function on Timesheets page enhanced to allow users to search by more fields Enabled ability to search by billing start date and billing end date on the Invoice Reconciliations page
 
 Added the PO Start date and PO End date added to Purchase Orders bulk page table Enabled ability to SORT on the Purchase Orders bulk page (can sort by clicking on the column headers)
