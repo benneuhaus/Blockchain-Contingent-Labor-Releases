@@ -58,25 +58,19 @@ Contractor start and end date now shows up in the csv export of the PO table
 
 We introduced a variety of reports that allow Managers, Delegated Time Verifiers, Financial Analysts, IBM Contractor Administrators, and Suppliers to keep track of and have better insight into their contractor and Purchase Orders. The Reports can be accessed through the menu in the top right corner of your screen.
 
-**Contractors Not Claiming**
-This report shows all contractors that
+**Contractors Not Claiming**: This report shows all contractors that
 - Are within the start and end dates on their PO
 - Are in "All Approved" status
 - Have not been moved to your inactive tab
 - Have not yet submitted a timesheet in the blockchain app
 
-**Remaining Funds**
-This report shows a list of all POs that have 20% or less of funds remaining on any of the line items, for POs that are not on your inactive or cancelled tabs.
+**Remaining Funds**: This report shows a list of all POs that have 20% or less of funds remaining on any of the line items, for POs that are not on your inactive or cancelled tabs.
 
-**Expiring Contractors**
-This report shows a list of contractors that are 8-weeks or less in advance of the contractor end date, that are not on your inactive tab
+**Expiring Contractors**: This report shows a list of contractors that are 8-weeks or less in advance of the contractor end date, that are not on your inactive tab
 
-**ILC Hours**
+**ILC Hours**: Via this report, Managers and DTVs can now see in bulk the timesheet details by serial num and line item the ILC codes logged by ILC contractors including account id, work item id, activity code, and bill code
 
-Via this report, Managers and DTVs can now see in bulk the timesheet details by serial num and line item the ILC codes logged by ILC contractors including account id, work item id, activity code, and bill code
-
-**Liability/Invoice Enhancement**
-We have added Additional filtering capabilities for the existing Liability and Invoice Reports
+**Liability/Invoice Enhancement**: We have added Additional filtering capabilities for the existing Liability and Invoice Reports
 
 
 <h3>7-7</h3>
