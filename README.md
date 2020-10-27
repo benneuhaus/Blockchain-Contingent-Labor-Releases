@@ -1,4 +1,4 @@
-<h4>10/27 Release</h4>
+<h3>10/27 Release</h3>
 
 Now using fields from upstream systems to automatically delegate POs to the correct Manager and Delegated Time Verifier- will reduce onboarding time:
 Manager email and Delegated Time Verifier (if applicable) are now required fields in the upstream systems we pull our PO data from, so we are utilizing this to automatically delegate POs to the correct managers and assign the  
