@@ -82,9 +82,11 @@ We have added Additional filtering capabilities for the existing Liability and I
 <h3>7-7</h3>
 
 **New Timesheets Page**
+
 We added a timesheets page allowing contractors to see a table of ALL of their timesheets, including saved (not submitted) timesheets and timesheets on multiple POs. This gives the contractor the ability to see the status of all of their submitted timesheets in a single view. This table can be downloaded and searched, it also shows the email of the manager, DTV and SAM who need to verify the timesheets.
 
 **PO Cancellation**
+
 This new function allows our application to process in a Purchase Order Cancellation from the upstream applications (Buy@IBM/Ariba). Once the PO has been cancelled, the Purchase Order and Contractor Record (if one was created prior to the cancellation) will be moved to the Cancelled tabs (Managers/CCA/FA/SAM). The Manager and the Supplier will receive an email notifying them that the PO was cancelled. We have created a function to allow timesheets on the cancelled PO to be migrated off of the Cancelled PO onto a renewal PO. This function is brand new so we highly recommend you read the training documentation in the PDF
 
 For managers who are part of GBS or GTS, if the contractor admin teams move a PO or a contractor to their inactive tab, the PO or contractor record will also move this record for the assigned manager as well. This function helps keep the offboarding process more in sync and should help limit the automated reminder emails informing managers that the PO is running out of funds or the contractor records are expiring soon.
