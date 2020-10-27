@@ -1,21 +1,21 @@
 <h3>10/27 Release</h3>
 
-Now using fields from upstream systems to automatically delegate POs to the correct Manager and Delegated Time Verifier- will reduce onboarding time:
+**Now using fields from upstream systems to automatically delegate POs to the correct Manager and Delegated Time Verifier- will reduce onboarding time**
 Manager email and Delegated Time Verifier (if applicable) are now required fields in the upstream systems we pull our PO data from, so we are utilizing this to automatically delegate POs to the correct managers and assign the  
 
-Now keeping track of "real-time" funds on the PO to govern time sheet verification:
+**Now keeping track of "real-time" funds on the PO to govern time sheet verification**
 Once a Purchase Order is pulled into our app from BDW (our SOR), we will take a snapshot of the number of hours and expenses available on the Purchase order, creating an "internal value" for our application. From that point forward, when a time sheet is fully verified, the hours will be subtracted from this value, and likewise for expenses. Rejected time sheets will not affect this internal value. A time sheet cannot be verified by the manager or supplier if it will cause the internal value to become negative. 
 
-Time Sheets that were locked due to having been invoiced can now send to ILC correctly :
+**Time Sheets that were locked due to having been invoiced can now send to ILC correctly**
 Once a time sheet is marked as having been invoiced, that time sheet is locked in the Blockchain application. Changes to the time sheet must be made as "Post-Processing Edits" where the changes are made as positive or negative "delta" values. Because of the complexity of working with these delta values, changes to the ILC codes made after invoicing would have to be submitted in ILC directly, but now, we will tabulate the new totals and send the updated overall values to ILC. 
 
-Accessibility enhancements:
+**Accessibility enhancements**
 We are trying to make sure our app stays compliant with accessibility standards so that everyone can use our application regardless of any impairments they may have 
 
-Defect with not being able to clear Notifications resolved:
+**Defect with not being able to clear Notifications resolved**
 There was a defect where the notifications under the bell icon could not be cleared. We have resolved this and you should be able to clear individual notifications or clear all notifications that are visible on the page
 
--- 2020 Highlights --
+<h4>2020 Highlights</h4>
 
 We added a timesheets page allowing contractors to see a table of ALL of their timesheets, including saved (not submitted) timesheets and timesheets on multiple POs
 
